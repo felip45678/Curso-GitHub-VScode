@@ -12,7 +12,7 @@ function precioConIva($precio, $iva) {
  * Calcula el mayor de dos números jjjj.
  * @param int $num1 primer número.
  * @param int $num2 segundo número.
- * @return float Mayor de los dos números.
+ * @return int Mayor de los dos números.
  */
 function mayorFelipe($num1,$num2) {
     if($num1>$num2){
